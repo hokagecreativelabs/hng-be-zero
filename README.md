@@ -10,7 +10,7 @@ This project is a simple public API built for the HNG12 Stage 0 Backend task. Th
 ## Technology Stack
 - **Node.js** with **Express.js** for the backend.
 - **CORS** enabled to handle cross-origin requests.
-- **Deployed on:** [Railway/Render/Vercel] (choose your deployment platform).
+- **Deployed on:** [Vercel].
 
 ## API Documentation
 
@@ -27,7 +27,7 @@ This project is a simple public API built for the HNG12 Stage 0 Backend task. Th
 {
   "email": "your-email@example.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/hokagecreativelabs/hng-be-zero"
 }
 \`\`\`
 
@@ -35,7 +35,7 @@ This project is a simple public API built for the HNG12 Stage 0 Backend task. Th
 
 ### **1. Clone the Repository**
 \`\`\`sh
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/hokagecreativelabs/hng-be-zero
 cd hng12-stage0-backend
 \`\`\`
 

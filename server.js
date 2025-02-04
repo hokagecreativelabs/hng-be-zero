@@ -11,9 +11,9 @@ app.use(cors());
 // API Route
 app.get("/", (req, res) => {
   res.json({
-    email: "your-email@example.com",
+    email: "ogundebusayo16@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/yourusername/your-repo",
+    github_url: "https://github.com/hokagecreativelabs/hng-be-zero",
   });
 });
 
